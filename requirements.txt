@@ -1,0 +1,14 @@
+pandas>=1.5
+numpy>=1.21
+scikit-learn>=1.1
+xgboost>=1.6
+imbalanced-learn>=0.10
+ctgan>=0.7
+shap>=0.41
+umap-learn>=0.5
+matplotlib>=3.5
+seaborn>=0.12
+scipy>=1.8
+kaggle>=1.5
+joblib>=1.2
+pyyaml>=6.0
